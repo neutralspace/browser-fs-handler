@@ -1,0 +1,17 @@
+{
+  "name": "browser-fs-handler",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neutralspace/browser-fs-handler.git"
+  },
+  "author": "Helen Ch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neutralspace/browser-fs-handler/issues"
+  },
+  "dependencies": {
+    "rxjs": "^6.5.3"
+  }
+}
